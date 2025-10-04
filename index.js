@@ -17,7 +17,7 @@ bot.onText(/\/start|\/shop/, (msg) => {
           {
             text: 'Open Shop',
             web_app: {
-              url: 'https://68e10b844836a9f0a8d13ec8--cool-mooncake-269f76.netlify.app/'
+              url: 'https://cool-mooncake-269f76.netlify.app/'
             }
           }
         ]
